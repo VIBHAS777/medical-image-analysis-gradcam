@@ -1,0 +1,11 @@
+lesion_id,image_id,dx,dx_type,age,sex,localization,disease_name
+HAM_0000118,ISIC_0027419,bkl,histo,80.0,male,scalp,Benign Keratosis
+HAM_0002730,ISIC_0025030,bkl,histo,80.0,male,scalp,Benign Keratosis
+HAM_0001466,ISIC_0031696,nv,histo,75.0,female,lower extremity,Melanocytic Nevi
+HAM_0001190,ISIC_0027850,nv,histo,50.0,male,back,Melanocytic Nevi
+HAM_0004234,ISIC_0024306,mel,histo,70.0,male,lower extremity,Melanoma
+HAM_0003058,ISIC_0024329,mel,histo,55.0,female,trunk,Melanoma
+HAM_0000350,ISIC_0024471,bcc,histo,65.0,male,face,Basal Cell Carcinoma
+HAM_0001565,ISIC_0024536,bcc,histo,60.0,female,abdomen,Basal Cell Carcinoma
+HAM_0002867,ISIC_0024649,akiec,histo,70.0,female,face,Actinic Keratosis
+HAM_0005786,ISIC_0024729,vasc,histo,45.0,male,chest,Vascular Lesion
